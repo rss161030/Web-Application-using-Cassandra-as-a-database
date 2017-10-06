@@ -1,5 +1,5 @@
-# Application-using-Cassandra-as-a-database
-Developed an application which uses Cassandra as a database
+# Web-Application-using-Cassandra-as-a-database
+Developed a web application which uses Cassandra as a database
 
 Outcome:
 Track a vehicle by entering Date and Vehicle Id to retrieve the details and location in google maps.
